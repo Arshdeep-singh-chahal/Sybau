@@ -24,7 +24,7 @@ Just clone the repo and run ```makepkg -si```
 ### 📦 For Arch Linux / Manjaro users:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sybau.git
+git clone https://github.com/Arshdeep-singh-chahal/Sybau.git
 cd Sybau
 makepkg -si
 ```
