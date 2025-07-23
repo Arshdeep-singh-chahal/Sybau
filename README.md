@@ -54,5 +54,5 @@ Arshdeep Singh
 
 Feel free to fork or contribute if you want to build weird Linux utilities like this 
 
-##🙅‍♂️ Disclaimer
+## 🙅‍♂️ Disclaimer
 I am not responsible for any data loss, system crashes, or rage quits caused by this script. Use at your own risk.
