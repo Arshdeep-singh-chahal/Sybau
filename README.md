@@ -32,7 +32,7 @@ makepkg -si
 You can now run:
 
 ```bash
-Sybau
+sybau
 ```
 And your system will immediately shut down.
 
