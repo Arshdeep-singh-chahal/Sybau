@@ -29,6 +29,8 @@ cd Sybau
 makepkg -si
 ```
 
+## Usage
+
 You can now run:
 
 ```bash
@@ -56,3 +58,6 @@ Feel free to fork or contribute if you want to build weird Linux utilities like 
 
 ## 🙅‍♂️ Disclaimer
 I am not responsible for any data loss, system crashes, or rage quits caused by this script. Use at your own risk.
+
+
+## Peace out 🫡
