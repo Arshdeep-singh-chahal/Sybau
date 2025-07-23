@@ -44,3 +44,9 @@ systemctl poweroff
 ```
 You can find the script here: Sybau.sh
 
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🧠 Author
+Arshdeep Singh
+Feel free to fork or contribute if you want to build weird Linux utilities like this 
