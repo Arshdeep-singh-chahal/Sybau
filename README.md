@@ -22,8 +22,8 @@ Intended for scripting, automation, or fun — **not** for accidental use.
 ### 📦 For Arch Linux / Manjaro users:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shutdown-now.git
-cd shutdown-now
+git clone https://github.com/YOUR_USERNAME/Sybau.git
+cd Sybau
 makepkg -si
 ```
 
