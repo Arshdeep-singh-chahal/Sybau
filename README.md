@@ -2,7 +2,7 @@
 
 Sybau
 
-A minimal Linux package that immediately shuts your PC's B***h A** up when executed.  
+A minimal Linux package that immediately shuts your PC's B___h A$$ up when executed.  
 Intended for scripting, automation, or fun — **not** for accidental use.
 
 > ⚠️ This will power off your system immediately. Be careful!
