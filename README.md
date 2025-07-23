@@ -19,6 +19,8 @@ Intended for scripting, automation, or fun — **not** for accidental use.
 
 ## 🛠️ Installation
 
+Just clone the repo and run ```makepkg -si```
+
 ### 📦 For Arch Linux / Manjaro users:
 
 ```bash
@@ -44,9 +46,12 @@ systemctl poweroff
 ```
 You can find the script here: Sybau.sh
 
-📄 License
+##📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🧠 Author
+##🧠 Author
 Arshdeep Singh
 Feel free to fork or contribute if you want to build weird Linux utilities like this 
+
+##🙅‍♂️ Disclaimer
+I am not responsible for any data loss, system crashes, or rage quits caused by this script. Use at your own risk.
